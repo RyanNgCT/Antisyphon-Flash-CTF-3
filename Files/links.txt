@@ -1,0 +1,8 @@
+Links I referenced:
+
+- https://gobiasinfosec.blog/2019/12/24/file-upload-attacks-php-reverse-shell/
+- https://www.acunetix.com/blog/articles/web-shells-101-using-php-introduction-web-shells-part-2/
+- https://www.w3schools.com/php/func_filesystem_parse_ini_file.asp
+- https://www.w3schools.com/php/func_misc_show_source.asp
+- https://stackoverflow.com/questions/53298019/using-passthru-to-download-file-results-in-broken-modified-file
+- https://www.tecmint.com/35-practical-examples-of-linux-find-command/
